@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+  <channel>
+    <title>TecnoBlog - Últimas noticias de tecnología</title>
+    <link>https://www.ejemplotecnoblog.com</link>
+    <description>Las últimas novedades en tecnología y tendencias digitales</description>
+    <language>es-es</language>
+    <pubDate>07 Apr 2025 10:00:00 GMT</pubDate>
+    <lastBuildDate>07 Apr 2025 10:00:00 GMT</lastBuildDate>
+    <generator>TecnoBlog CMS</generator>
+
+
+    <item>
+      <title>Los mejores smartphones de 2025</title>
+      <link>https://www.ejemplotecnoblog.com/mejores-smartphones-2025</link>
+      <description>Repasamos los teléfonos más innovadores que llegarán al mercado este año, con análisis de sus características principales.</description>
+      <pubDate>06 Apr 2025 14:30:00 GMT</pubDate>
+      <category>Smartphones</category>
+      <guid>https://www.ejemplotecnoblog.com/mejores-smartphones-2025</guid>
+    </item>
+
+    <item>
+      <title>Inteligencia Artificial: ¿Cómo cambiará nuestro trabajo?</title>
+      <link>https://www.ejemplotecnoblog.com/ia-cambio-laboral</link>
+      <description>Análisis de cómo los avances en IA están transformando diferentes industrias y qué profesiones serán más afectadas.</description>
+      <pubDate>05 Apr 2025 09:15:00 GMT</pubDate>
+      <category>Inteligencia Artificial</category>
+      <guid>https://www.ejemplotecnoblog.com/ia-cambio-laboral</guid>
+    </item>
+
+    <item>
+      <title>Guía completa para construir tu propio PC gaming</title>
+      <link>https://www.ejemplotecnoblog.com/guia-pc-gaming</link>
+      <description>Paso a paso para seleccionar componentes y crear el ordenador gaming perfecto en base a tu presupuesto.</description>
+      <pubDate>03 Apr 2025 18:45:00 GMT</pubDate>
+      <category>Hardware</category>
+      <category>Gaming</category>
+      <guid>https://www.ejemplotecnoblog.com/guia-pc-gaming</guid>
+    </item>
+
+    <item>
+      <title>Windows 12: Todas las novedades esperadas</title>
+      <link>https://www.ejemplotecnoblog.com/windows12-novedades</link>
+      <description>Microsoft prepara su nuevo sistema operativo con mejoras en productividad, seguridad y rendimiento.</description>
+      <pubDate>01 Apr 2025 11:20:00 GMT</pubDate>
+      <category>Software</category>
+      <guid>https://www.ejemplotecnoblog.com/windows12-novedades</guid>
+    </item>
+
+  </channel>
+</rss>
